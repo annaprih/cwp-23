@@ -1,0 +1,7 @@
+{
+  "name": "mendeleev_23",
+  "version": "1.0.0",
+  "dependencies": {
+    "mendeleev": "^1.2.2"
+  }
+}

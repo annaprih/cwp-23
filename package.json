@@ -1,0 +1,14 @@
+{
+  "name": "cwp_23_paa",
+  "version": "1.0.0",
+  "description": "cwp_23_paa",
+  "main": "./mendeleev-master/index.js",
+  "author": "anna_prih@tut.by",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "mendeleev_23",
+    "mendeleev-stringify",
+    "mendeleev-master"
+  ]
+}
